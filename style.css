@@ -70,7 +70,6 @@ hr{border:0;}
   font-size: 0;
 }
 .title{
-  color: #FFF;
   height: 60px;
   background-color: #6ec9bd;
   border-bottom: 1px solid #CCC;
@@ -82,6 +81,9 @@ hr{border:0;}
   top:50%;
   transform: translateY(-50%);
   padding-left:20px;
+}
+.title span a{
+  color:#FFF;
 }
 .left{
   width:65%;
